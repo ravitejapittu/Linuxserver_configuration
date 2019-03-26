@@ -293,3 +293,11 @@ The `unattended-upgrades` package can be used to automatically install important
 
  - To get log messages from Apache server: `sudo tail /var/log/apache2/error.log`.
  - To restart Apache: `sudo service apache2 restart`.
+
+## Other Helpful Resources
+
+  - DigitalOcean How To Deploy a Flask Application on an Ubuntu VPS
+  - GitHub Repositories
+    - bencam/linux-server-configuration
+    - iliketomatoes/linux_server_configuration
+Special Thanks to Alain Boisvert for a very helpful README in Linux Server Configuration Project-Udacity*
